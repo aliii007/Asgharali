@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Bilal Ishaque</h1>
+<h1 align="center">Hi 👋, I'm Asghar Ali</h1>
 <h3 align="center">🚀 MERN Stack Developer | Blockchain & AI Enthusiast | Freelance Expert</h3>
 
 ---
@@ -19,9 +19,9 @@
   - 🤖 Working on <strong>Custom AI Solutions</strong> for real-world impact  
   - 🌐 Passionate about <strong>Blockchain, DApps, and Smart Contracts</strong>  
   - 📚 Lifelong learner & open-source contributor  
-  - 📫 Email me at: <a href="mailto:mbilal27012001@gmail.com">mbilal27012001@gmail.com</a>  
+  - 📫 Email me at: <a href="mailto:asgharalijpj7860@gmail.com">asgharalijpj7860@gmail.com</a>  
   - 🌍 Portfolio: <a href="https://devoan.com">devoan.com</a>  
-  - 💼 LinkedIn: <a href="https://www.linkedin.com/in/bilal-ishaquee-228a58235/">bilal-ishaquee-228a58235</a>
+  - 💼 LinkedIn: <a href="https://www.linkedin.com/in/asghar-ali-8017a32b1/">asghar-ali-8017a32b1</a>
 
   </div>
 
@@ -32,19 +32,15 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bilal-ishaquee-228a58235/" target="_blank">
+  <a href="https://www.linkedin.com/in/asghar-ali-8017a32b1/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/bilal_ishaquee/" target="_blank">
+  <a href="https://www.instagram.com/_.deboiwidflaws._/" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="40" />
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/share/1972SESvNW/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="40" />
-  </a>
-  &nbsp;
-  <a href="mailto:mbilal27012001@gmail.com" target="_blank">
+  <a href="mailto:asgharalijpj786@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" />
   </a>
 </p>
@@ -78,12 +74,7 @@
 ### ✨ Quote
 
 > “Code is not just a skill — it's the art of turning imagination into reality.”  
-> — *Bilal Ishaque*
+> — *Asghar Ali*
 
 ---
 
-### 📍 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bilalishaquee&label=Visitors&color=0e75b6&style=flat" alt="profile-views" />
-</p>
